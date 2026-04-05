@@ -1,5 +1,5 @@
 {
-  "name": "mungajohn12294/Package",
+  "name": "@mungajohn12294/Package",
   "version": "1.0.0",
   "description": "My first GitHub npm package",
   "main": "index.js",
