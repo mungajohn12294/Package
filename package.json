@@ -1,0 +1,14 @@
+{
+  "name": "mungajohn12294/Package",
+  "version": "1.0.0",
+  "description": "My first GitHub npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "author": "mungajohn12294",
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
+}
